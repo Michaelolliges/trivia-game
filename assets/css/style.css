@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Righteous', cursive;
+    color:forestgreen;
+    padding-top: 20px;
+}
+body{
+    background-image: url(http://wallpoper.com/images/00/44/96/75/beautiful-forest-scenery_00449675.jpg);
+}
+.row{
+    margin-right: -15px;
+    margin-left: 360px;
+    padding: 100px;
+}
+.startGame{
+text-align: center;
+}
